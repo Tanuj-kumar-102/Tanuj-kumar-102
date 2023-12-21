@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tanuj kumar
-- 👀 I’m interested in Develop Webapp, Android, Built AI Program and Competative Programming
-- 🌱 I’m currently learning Full-stack Development
-- 💞️ I’m looking to collaborate on Google Summer of code
+- 👀 I’m interested in Develop Webapp in Mongodb, React.js, Express.js, Node.js and Competative Programming also
+- 🌱 I’m currently learning MREN-stack Development
+- 💞️ I’m looking Internship opportunity
 - 📫 How to reach me - using Linkedin
 
 <!---
